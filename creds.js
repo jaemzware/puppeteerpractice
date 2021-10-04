@@ -1,4 +1,4 @@
 module.exports = {
-    username: '<GITHUB_USERNAME>',
-    password: '<GITHUB_PASSWORD>'
+    username: 'jaemzware',
+    password: '8BigFish@2112'
 }
